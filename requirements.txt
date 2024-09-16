@@ -1,0 +1,12 @@
+torch
+transformers
+sentence-transformers
+tqdm
+nltk
+numpy
+scipy
+matplotlib
+networkx
+grakel
+stanza
+scikit-learn
