@@ -44,7 +44,7 @@ This repo contains Python scripts for analyzing the linguistic diversity among c
    - Results are saved to `unique-n.txt`.
 
 ### Citation
-```bash
+```
 @inproceedings{guo-etal-2024-curious,
     title = "The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text",
     author = "Guo, Yanzhu  and
